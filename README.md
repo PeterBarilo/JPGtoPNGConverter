@@ -1,3 +1,3 @@
 # JPGtoPNGConverter
 
-pip install PIL to get started
+pip install Pillow to get started
